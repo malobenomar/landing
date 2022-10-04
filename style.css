@@ -1,0 +1,158 @@
+h3{
+	color: #286AA1;
+	font-family: monospace;
+margin : 0 ;
+}
+body {
+	background-color: #286AA1;
+  font-family: monospace;
+  margin: 0;
+  }
+
+  H1, H2, { 
+color: #A9A19F;
+font-family: monospace;
+margin : 0 ;
+}
+p {
+color: #286AA1 ;
+opacity: 5;
+
+}
+.produits {
+	width: 800px;
+	margin: auto;
+	color: whitesmoke;
+
+}
+.bannière {
+background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/dell.jpg');
+background-size: cover;
+  background-position: center;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.bannière h1 {
+  color: #286AA1;
+  font-size: 80px;
+  margin: 0;
+}
+
+.bannière p {
+  color: white;
+  font-size: 40px;
+}
+
+.button {
+
+  background-color:#286AA1 ;
+  color: white;
+  padding: 16px 48px;
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.button:hover {
+  background-color: #286AA1;
+  color: black;
+}
+
+.xps {
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 50px;
+  margin: 8px;
+}
+
+.xps img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.xps h3 {
+ margin-bottom: 0;
+}
+.lat {
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 50px;
+  margin: 8px;
+ }
+
+  .lat img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+  }
+
+
+  .lat h3 {
+  margin-bottom: 0;
+}
+.chrombook{
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 50px;
+  margin: 8px;
+}
+
+  .chrombook img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+   }
+
+
+  .chrombook h3 {
+  margin-bottom: 0
+}
+
+
+
+.footer {
+  background: ##286AA1;
+  text-align: center;
+  padding: 24px 0;
+}
+
+.footer p {
+  color: #FFFFFF;
+ }
+
+  
+
+.tout {
+margin-right: auto;
+margin-left: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
